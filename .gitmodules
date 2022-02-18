@@ -1,0 +1,3 @@
+[submodule "docs/aws-docs"]
+	path = docs/aws-docs
+	url = https://github.com/awsdocs/amazon-ses-developer-guide
